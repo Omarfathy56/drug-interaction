@@ -12,8 +12,4 @@ df = load_data()
 # Streamlit navigation
 st.title("Welcome to the Smart Drug Safety Assistant")
 st.write("This app helps pharmacists quickly check drug interactions and ensure medication safety.")
-<<<<<<< HEAD
 
-
-=======
->>>>>>> 4823c96 (Initial commit)
