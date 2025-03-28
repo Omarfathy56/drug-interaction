@@ -1,0 +1,108 @@
+Drug 1,Drug 2,Interaction Description
+Naproxen,Ibuprofen,The risk or severity of adverse effects can be increased when Naproxen is combined with Ibuprofen.
+Diclofenac,Ibuprofen,The risk or severity of adverse effects can be increased when Diclofenac is combined with Ibuprofen.
+Lisinopril,Ibuprofen,The risk or severity of adverse effects can be increased when Lisinopril is combined with Ibuprofen.
+Ciprofloxacin,Valsartan,Ciprofloxacin may increase the arrhythmogenic activities of Valsartan.
+Glyburide,Valsartan,The metabolism of Valsartan can be decreased when combined with Glyburide.
+Naproxen,Valsartan,The metabolism of Valsartan can be decreased when combined with Naproxen.
+Ibuprofen,Valsartan,The metabolism of Valsartan can be decreased when combined with Ibuprofen.
+Diclofenac,Valsartan,The metabolism of Valsartan can be decreased when combined with Diclofenac.
+Loratadine,Valsartan,The metabolism of Valsartan can be decreased when combined with Loratadine.
+Sertraline,Valsartan,The metabolism of Valsartan can be decreased when combined with Sertraline.
+Acetaminophen,Valsartan,The metabolism of Valsartan can be decreased when combined with Acetaminophen.
+Ciprofloxacin,Sertraline,Ciprofloxacin may increase the QTc-prolonging activities of Sertraline.
+Metformin,Sertraline,Metformin may increase the hypoglycemic activities of Sertraline.
+Glyburide,Sertraline,The metabolism of Sertraline can be decreased when combined with Glyburide.
+Ibuprofen,Sertraline,The metabolism of Sertraline can be decreased when combined with Ibuprofen.
+Diclofenac,Sertraline,The metabolism of Sertraline can be decreased when combined with Diclofenac.
+Domperidone,Sertraline,Domperidone may increase the QTc-prolonging activities of Sertraline.
+Escitalopram,Sertraline,Escitalopram may increase the QTc-prolonging activities of Sertraline.
+Simvastatin,Sertraline,The metabolism of Sertraline can be decreased when combined with Simvastatin.
+Azithromycin,Sertraline,Azithromycin may increase the QTc-prolonging activities of Sertraline.
+Ranitidine,Sertraline,The metabolism of Sertraline can be decreased when combined with Ranitidine.
+Cetirizine,Sertraline,The risk or severity of adverse effects can be increased when Cetirizine is combined with Sertraline.
+Loratadine,Sertraline,The metabolism of Sertraline can be decreased when combined with Loratadine.
+Acetaminophen,Sertraline,The metabolism of Sertraline can be decreased when combined with Acetaminophen.
+Amoxicillin,Sertraline,The metabolism of Sertraline can be decreased when combined with Amoxicillin.
+Fexofenadine,Sertraline,The risk or severity of adverse effects can be increased when Fexofenadine is combined with Sertraline.
+Ciprofloxacin,Paroxetine,Ciprofloxacin may increase the QTc-prolonging activities of Paroxetine.
+Metformin,Paroxetine,Metformin may increase the hypoglycemic activities of Paroxetine.
+Glyburide,Paroxetine,Glyburide may increase the hypoglycemic activities of Paroxetine.
+Diclofenac,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Diclofenac.
+Domperidone,Paroxetine,Domperidone may increase the QTc-prolonging activities of Paroxetine.
+Escitalopram,Paroxetine,Escitalopram may increase the QTc-prolonging activities of Paroxetine.
+Simvastatin,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Simvastatin.
+Azithromycin,Paroxetine,Azithromycin may increase the QTc-prolonging activities of Paroxetine.
+Ranitidine,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Ranitidine.
+Cetirizine,Paroxetine,The risk or severity of adverse effects can be increased when Cetirizine is combined with Paroxetine.
+Loratadine,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Loratadine.
+Sertraline,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Sertraline.
+Acetaminophen,Paroxetine,The metabolism of Paroxetine can be decreased when combined with Acetaminophen.
+Fexofenadine,Paroxetine,The risk or severity of adverse effects can be increased when Fexofenadine is combined with Paroxetine.
+Ciprofloxacin,Atorvastatin,The risk or severity of adverse effects can be increased when Ciprofloxacin is combined with Atorvastatin.
+Glyburide,Atorvastatin,The risk or severity of adverse effects can be increased when Glyburide is combined with Atorvastatin.
+Simvastatin,Atorvastatin,The risk or severity of adverse effects can be increased when Simvastatin is combined with Atorvastatin.
+Amlodipine,Atorvastatin,The risk or severity of adverse effects can be increased when Amlodipine is combined with Atorvastatin.
+Omeprazole,Atorvastatin,The risk or severity of adverse effects can be increased when Omeprazole is combined with Atorvastatin.
+Ranitidine,Atorvastatin,The risk or severity of adverse effects can be increased when Ranitidine is combined with Atorvastatin.
+Loratadine,Atorvastatin,The risk or severity of adverse effects can be increased when Loratadine is combined with Atorvastatin.
+Sertraline,Atorvastatin,The risk or severity of adverse effects can be increased when Sertraline is combined with Atorvastatin.
+Acetaminophen,Atorvastatin,The risk or severity of adverse effects can be increased when Acetaminophen is combined with Atorvastatin.
+Glyburide,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Glyburide.
+Naproxen,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Naproxen.
+Ibuprofen,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Ibuprofen.
+Diclofenac,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Diclofenac.
+Escitalopram,Omeprazole,The serum concentration of Omeprazole can be increased when it is combined with Escitalopram.
+Simvastatin,Omeprazole,The serum concentration of Omeprazole can be increased when it is combined with Simvastatin.
+Valsartan,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Valsartan.
+Esomeprazole,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Esomeprazole.
+Ranitidine,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Ranitidine.
+Loratadine,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Loratadine.
+Sertraline,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Sertraline.
+Acetaminophen,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Acetaminophen.
+Amoxicillin,Omeprazole,The metabolism of Omeprazole can be decreased when combined with Amoxicillin.
+Glyburide,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Glyburide.
+Ibuprofen,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Ibuprofen.
+Diclofenac,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Diclofenac.
+Escitalopram,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Escitalopram.
+Ranitidine,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Ranitidine.
+Sertraline,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Sertraline.
+Amoxicillin,Esomeprazole,The metabolism of Esomeprazole can be decreased when combined with Amoxicillin.
+Domperidone,Ciprofloxacin,Domperidone may increase the QTc-prolonging activities of Ciprofloxacin.
+Escitalopram,Ciprofloxacin,Escitalopram may increase the QTc-prolonging activities of Ciprofloxacin.
+Simvastatin,Ciprofloxacin,The serum concentration of Ciprofloxacin can be increased when it is combined with Simvastatin.
+Ciprofloxacin,Lisinopril,Ciprofloxacin may increase the arrhythmogenic activities of Lisinopril.
+Simvastatin,Lisinopril,The serum concentration of Lisinopril can be increased when it is combined with Simvastatin.
+Valsartan,Lisinopril,The risk or severity of adverse effects can be increased when Valsartan is combined with Lisinopril.
+Amlodipine,Lisinopril,The risk or severity of adverse effects can be increased when Amlodipine is combined with Lisinopril.
+Atorvastatin,Lisinopril,The serum concentration of Lisinopril can be increased when it is combined with Atorvastatin.
+Simvastatin,Amlodipine,The serum concentration of Amlodipine can be increased when it is combined with Simvastatin.
+Valsartan,Amlodipine,The risk or severity of adverse effects can be increased when Valsartan is combined with Amlodipine.
+Simvastatin,Loratadine,The serum concentration of Loratadine can be increased when it is combined with Simvastatin.
+Cetirizine,Loratadine,The risk or severity of adverse effects can be increased when Cetirizine is combined with Loratadine.
+Cetirizine,Fexofenadine,The risk or severity of adverse effects can be increased when Cetirizine is combined with Fexofenadine.
+Loratadine,Fexofenadine,The risk or severity of adverse effects can be increased when Loratadine is combined with Fexofenadine.
+Metformin,Escitalopram,Metformin may increase the hypoglycemic activities of Escitalopram.
+Glyburide,Escitalopram,Glyburide may increase the hypoglycemic activities of Escitalopram.
+Cetirizine,Escitalopram,The risk or severity of adverse effects can be increased when Cetirizine is combined with Escitalopram.
+Loratadine,Escitalopram,The risk or severity of adverse effects can be increased when Loratadine is combined with Escitalopram.
+Fexofenadine,Escitalopram,The risk or severity of adverse effects can be increased when Fexofenadine is combined with Escitalopram.
+Ciprofloxacin,Azithromycin,Ciprofloxacin may increase the QTc-prolonging activities of Azithromycin.
+Naproxen,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Naproxen.
+Diclofenac,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Diclofenac.
+Domperidone,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Domperidone.
+Escitalopram,Azithromycin,Escitalopram may increase the QTc-prolonging activities of Azithromycin.
+Simvastatin,Azithromycin,Simvastatin may increase the myopathic rhabdomyolysis activities of Azithromycin.
+Omeprazole,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Omeprazole.
+Ranitidine,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Ranitidine.
+Atorvastatin,Azithromycin,Atorvastatin may increase the myopathic rhabdomyolysis activities of Azithromycin.
+Acetaminophen,Azithromycin,The metabolism of Azithromycin can be decreased when combined with Acetaminophen.
+Simvastatin,Acetaminophen,The serum concentration of Acetaminophen can be increased when it is combined with Simvastatin.
+Escitalopram,Domperidone,The risk or severity of QTc prolongation can be increased when Escitalopram is combined with Domperidone.
+Lisinopril,Diclofenac,The risk or severity of adverse effects can be increased when Lisinopril is combined with Diclofenac.
+Simvastatin,Glyburide,The serum concentration of Glyburide can be increased when it is combined with Simvastatin.
+Diclofenac,Naproxen,The risk or severity of adverse effects can be increased when Diclofenac is combined with Naproxen.
+Lisinopril,Naproxen,The risk or severity of adverse effects can be increased when Lisinopril is combined with Naproxen.
+Glyburide,Ranitidine,The serum concentration of Ranitidine can be increased when it is combined with Glyburide.
+Simvastatin,Ranitidine,The serum concentration of Ranitidine can be increased when it is combined with Simvastatin.
+Glyburide,Metformin,Glyburide may increase the hypoglycemic activities of Metformin.
