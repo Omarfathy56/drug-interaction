@@ -24,7 +24,7 @@ def analyze_interaction(drug1, drug2, interaction_desc):
 
 # Streamlit UI
 def show_drug_interaction(df):
-    st.title("Drug Interaction Checker")
+    st.title("💊 Drug Interaction Checker")
 
     drug1 = st.selectbox("Select the first drug:", df["Drug 1"].unique())
     drug2 = st.selectbox("Select the second drug:", df["Drug 2"].unique())
@@ -41,7 +41,15 @@ def show_drug_interaction(df):
             st.subheader("AI Analysis:")
             st.write(f"🩺 **{ai_response}**")
         else:
-            st.warning("No interaction data found for the selected drugs.")
+            st.warning("No interaction data found in the database. Asking AI...")
+            prompt = f"""
+                Is there any known interaction between {drug1} and {drug2}?
+                If yes, say "Not Safe" and explain briefly. If not, say "Safe" and explain briefly.
+                Limit your response to 2 sentences.
+                """
+            response = model.generate_content(prompt)
+            st.subheader("AI Analysis:")
+            st.write(f"🩺 **{response.text.strip()}**")
 
 # Run the app
 show_drug_interaction(df)
