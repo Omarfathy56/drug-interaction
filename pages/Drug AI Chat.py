@@ -28,7 +28,7 @@ def chat_with_ai(user_input, drug_name):
 st.title("💊 Drug Information & AI Chatbot")
 
 # Drug Selection
-selected_drug = st.selectbox("Select a drug:", df["Drug 1"].unique())
+selected_drug = st.text_input("Enter a drug name:", value=df["Drug 1"].unique()[0])
 
 if st.button("Get Drug Info"):
     info = get_drug_info(selected_drug)
